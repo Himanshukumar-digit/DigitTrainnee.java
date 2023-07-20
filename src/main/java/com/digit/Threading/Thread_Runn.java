@@ -44,7 +44,7 @@ class MSOffice extends Thread {
 
 	void checking() {
 
-		for (; ;) {
+		for (;;) {
 
 			try {
 
@@ -64,7 +64,7 @@ class MSOffice extends Thread {
 
 	void saving() {
 
-		for (; ;) {
+		for (;;) {
 
 			try {
 
